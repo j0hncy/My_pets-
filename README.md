@@ -7,6 +7,7 @@
 •	unit_test.py
 2. Open the terminal in your local system where python is installed
 3. Execute the python code SavepetShop.py and verify output is as below:
+   
 Connecting to database
 Beginning a transaction
 Inserting Grafield into table Cat
@@ -28,7 +29,7 @@ Logging script execution statistics:
 Total number of cats in the database: 4
 Total number of dogs in the database: 4
 
-4. Execute the unit test code unit_test.py and verify the output as below:
+5. Execute the unit test code unit_test.py and verify the output as below:
 Ran 2 tests in 0.000s
 OK
 
