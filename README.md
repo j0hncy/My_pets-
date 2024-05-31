@@ -1,7 +1,7 @@
 # My_pets-
 
 # How To Run
-1. Download the 3 python codes to your local system
+1. Clone this repository or Download the 3 python codes to your local system
 •	petsclass.py
 •	SavepetShop.py
 •	unit_test.py
