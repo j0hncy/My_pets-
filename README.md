@@ -7,7 +7,9 @@
 •	unit_test.py
 2. Open the terminal in your local system where python is installed
 3. Execute the python code SavepetShop.py and verify output is as below:
+   
 ![image](https://github.com/j0hncy/My_pets-/blob/main/output.png)
+
 4. Execute the unit test code unit_test.py and verify the output as below:
 Ran 2 tests in 0.000s
 OK
