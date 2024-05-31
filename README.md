@@ -11,9 +11,7 @@
 ![image](https://github.com/j0hncy/My_pets-/blob/main/output.png)
 
 4. Execute the unit test code unit_test.py and verify the output as below:
-
 Ran 2 tests in 0.000s
-
 OK
 
 # Implementation
